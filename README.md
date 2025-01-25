@@ -1,3 +1,3 @@
-# Final_server
-# Final_server
-# F_Server
+npm install express
+
+npm start
